@@ -20,7 +20,6 @@ Los proyectos disponibles (ordenados de menor a mayor dificultad) son:
 3. **Clima**: análisis de datos históricos de clima y generación de climogramas
 4. **D-Hont**: análisis de datos electorales y cálculo de escaños mediante la ley D'Hont
 5. **Vecinos cercanos**: clasificación automática basada en el método de los vecinos más cercanos
-6. **Twitter**: cálculo de indicadores de actividad a partir de una colección de tweets
 
 
 Para poder ejecutar los scripts es necesario instalar el intérprete de Python. Lo más recomendable es hacerlo a través de la distribución de Anaconda (https://conda.io/docs/user-guide/install/download.html) que incluye el intérprete de Python, y la mayoría de las librerías que usaremos a lo largo del curso.
