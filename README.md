@@ -13,14 +13,14 @@ Los proyectos están parcialmente resueltos, incluyen:
 No se incluye:
 - La implementación de las funciones. El cuerpo de las funciones contiene solo una instrucción <code>pass</code> que deberá ser sustituida por una implementación que cubra lo que se indica en el comentario explicativo. 
 
-Los proyectos disponibles (ordenados de menor a mayor dificultad) son:
+Los proyectos disponibles son:
 
 1. **Minimos cuadrados**: cálculo de una recta de regresión mediante la técnica de mínimos cuadrados
 2. **Cifrado**: cifrado y descifrado de textos mediante el código de desplazamiento de César
-3. **Clima**: análisis de datos históricos de clima y generación de climogramas
-4. **D-Hont**: análisis de datos electorales y cálculo de escaños mediante la ley D'Hont
-5. **Vecinos cercanos**: clasificación automática basada en el método de los vecinos más cercanos
-
+3. **D-Hont**: análisis de datos electorales y cálculo de escaños mediante la ley D'Hont
+4. **Vecinos cercanos**: clasificación automática basada en el método de los vecinos más cercanos
+5. **Imagenes**: funciones de manipulación de imágenes RGB (reflejo, rotación, transformaciones del color, ...)
+6. **Clima**: análisis de datos históricos de clima y generación de climogramas
 
 Para poder ejecutar los scripts es necesario instalar el intérprete de Python. Lo más recomendable es hacerlo a través de la distribución de Anaconda (https://conda.io/docs/user-guide/install/download.html) que incluye el intérprete de Python, y la mayoría de las librerías que usaremos a lo largo del curso.
 
