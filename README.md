@@ -20,7 +20,7 @@ Se puede encontrar una explicación más completa de este material docente en el
 Cada carpeta contiene un proyecto implementado en un script Python. Estos proyectos permiten ir descubriendo distintos elementos del lenguaje Python mediante su aplicación en la resolución de un problema concreto. Se utilizará este material en las clases de laboratorio.
 
 Los proyectos están parcialmente resueltos, incluyen:
-- Un breve enunciado en pdf
+- Un breve enunciado en un documento pdf
 - La organización del proyecto en funciones. Para cada función se definen los parámetros y se incluye un comentario explicativo de su funcionamiento.
 - Un módulo de pruebas con una función de test para cada función del proyecto
 - La decisión de las estructuras usadas para representar los datos del proyecto
