@@ -22,8 +22,7 @@ Cada carpeta contiene un proyecto implementado en un script Python. Estos proyec
 Los proyectos están parcialmente resueltos, incluyen:
 - Un breve enunciado en pdf
 - La organización del proyecto en funciones. Para cada función se definen los parámetros y se incluye un comentario explicativo de su funcionamiento.
-- Una función de test para cada función
-- Un programa principal que llama a las funciones de test
+- Un módulo de pruebas con una función de test para cada función del proyecto
 - La decisión de las estructuras usadas para representar los datos del proyecto
 
 No se incluye:
@@ -31,12 +30,14 @@ No se incluye:
 
 Los proyectos disponibles son:
 
-1. **Minimos cuadrados**: cálculo de una recta de regresión mediante la técnica de mínimos cuadrados
-2. **Cifrado**: cifrado y descifrado de textos mediante el código de desplazamiento de César
-3. **D-Hont**: análisis de datos electorales y cálculo de escaños mediante la ley D'Hont
-4. **Vecinos cercanos**: clasificación automática basada en el método de los vecinos más cercanos
-5. **Imagenes**: funciones de manipulación de imágenes RGB (reflejo, rotación, transformaciones del color, ...)
-6. **Clima**: análisis de datos históricos de clima y generación de climogramas
+1. **Poblacion**: análisis de datos sobre la población mundial
+2. **Normalidad**: test de normalidad para series de valores numéricos
+3. **Minimos cuadrados**: cálculo de una recta de regresión mediante la técnica de mínimos cuadrados
+4. **Cifrado**: cifrado y descifrado de textos mediante el código de desplazamiento de César
+5. **D-Hondt**: análisis de datos electorales y cálculo de escaños mediante la ley D'Hondt
+6. **Vecinos cercanos**: clasificación automática basada en el método de los vecinos más cercanos
+7. **Imagenes**: funciones de manipulación de imágenes RGB (reflejo, rotación, transformaciones del color, ...)
+8. **Clima**: análisis de datos históricos de clima y generación de climogramas
 
 Para poder ejecutar los scripts es necesario instalar el intérprete de Python. Lo más recomendable es hacerlo a través de la distribución de Anaconda (https://conda.io/docs/user-guide/install/download.html) que incluye el intérprete de Python, y la mayoría de las librerías que usaremos a lo largo del curso.
 
